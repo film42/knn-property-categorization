@@ -5,11 +5,9 @@ This is a rewrite of the challenge presented by Burak Kanber, from his Machine L
 
 Link to the article: http://burakkanber.com/blog/machine-learning-in-js-k-nearest-neighbor-part-1/
 
-## Getting Started
+## The Problem
 
-Add anything you want to the `src` directory, and all tests will follow a matching name under the `test/src` directory. So if you were to create a `some.h` in `src`, then a test file could be placed in `test/src/some_test.cpp`.
-
-To make this project template specific to your project, please rename the `PROJECT` name in `CMakeLists.txt` under the `test` directory to match your project name.
+Given the number of rooms and area (in square feet) of a type of dwelling, figure out if it’s an apartment, house, or flat.
 
 ## Compiling
 
