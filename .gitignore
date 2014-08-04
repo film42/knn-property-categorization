@@ -87,3 +87,4 @@ packages/
 #Template
 change_my_name_tests
 knn_unit_tests
+knn_tests
